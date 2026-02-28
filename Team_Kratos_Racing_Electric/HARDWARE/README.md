@@ -42,5 +42,4 @@ The physical design translated these requirements into a high-performance PCB:
 **Thermal Management:** Used balanced current traces to prevent localized heating during high discharge cycles.
 
 
-* 
 **Validation:** Transitioned the core architecture to **STM32**, integrating **SWD and JTAG** headers for real-time hardware-in-the-loop debugging.
