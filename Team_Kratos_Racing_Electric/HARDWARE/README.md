@@ -8,11 +8,10 @@ The hardware architecture for the Battery Management System (BMS) was developed 
 
 Before routing a single trace, the project began by defining critical safety and performance benchmarks:
 
-* 
+
 **Cell Monitoring:** High-accuracy voltage and temperature sensing for the entire battery pack.
 
 
-* 
 **Communication Integrity:** Establishing noise-resistant data paths between the Master and Slave units.
 
 
@@ -22,12 +21,12 @@ Before routing a single trace, the project began by defining critical safety and
 
 The system was broken down into isolated functional blocks to simplify debugging and improve fault tolerance:
 
-* 
+
 **Sensing Module:** Focused on the **LTC6812** interface for precise cell telemetry.
 
 
 * **Power Management:** Designed to handle regulated power delivery to the logic and communication ICs.
-* 
+  
 **Isolation Barrier:** Implementation of **iso-SPI** to electrically decouple the high-voltage battery from the low-voltage control signals.
 
 
@@ -36,11 +35,10 @@ The system was broken down into isolated functional blocks to simplify debugging
 
 The physical design translated these requirements into a high-performance PCB:
 
-* 
+
 **Signal Integrity:** Optimized layouts with **minimal trace lengths** to reduce parasitic inductance and improve sensing accuracy.
 
 
-* 
 **Thermal Management:** Used balanced current traces to prevent localized heating during high discharge cycles.
 
 
