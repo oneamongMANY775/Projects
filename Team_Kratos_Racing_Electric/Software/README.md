@@ -1,0 +1,1 @@
+Source code and STM32CubeIDE project files for the Battery Management System (BMS) firmware. This folder includes custom C drivers for the LTC6812 multi-cell battery monitor, SPI communication protocols, and FATFS integration for real-time onboard SD card data logging.
