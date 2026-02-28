@@ -17,15 +17,15 @@ A dedicated Embedded Engineer with a background in **CSE (AI & ML)** and extensi
 
 #### 1. [Drone Compute Carrier Board & Systems]
 
-* 
+
 **Role:** Embedded Engineer at Sharang Shakti.
 
 
-* 
+
 **Key Achievement:** Designed a custom carrier board for the **NVIDIA Jetson Orin Nano**.
 
 
-* 
+
 **Scope:** * Integrated high-speed interfaces and power domains for drone compute.
 
 
@@ -40,7 +40,7 @@ A dedicated Embedded Engineer with a background in **CSE (AI & ML)** and extensi
 
 #### 2. [RTOS-Based Firmware & Vision Pipelines](https://www.google.com/search?q=./firmware-vision)
 
-* 
+
 **Role:** Lead Firmware Developer.
 
 
@@ -56,11 +56,11 @@ A dedicated Embedded Engineer with a background in **CSE (AI & ML)** and extensi
 
 #### 3. [Electric Vehicle BMS & ECU Systems](https://www.google.com/search?q=./ev-bms-systems)
 
-* 
+
 **Role:** Embedded Engineer for Team Kratos Racing Electric.
 
 
-* 
+
 **Key Achievement:** Migrated the Battery Management System (BMS) from Atmega to **STM32**, improving debugging via SWD/JTAG.
 
 
@@ -79,11 +79,11 @@ A dedicated Embedded Engineer with a background in **CSE (AI & ML)** and extensi
 
 #### 4. [Business & Strategic Leadership](https://www.google.com/search?q=./business-strategy)
 
-* 
+
 **Role:** Business Plan Team Lead.
 
 
-* 
+
 **Result:** Led the team from zero prior achievements to an **All India Rank of 3** in the 2025 Formula Bharat season.
 
 
@@ -92,34 +92,34 @@ A dedicated Embedded Engineer with a background in **CSE (AI & ML)** and extensi
 
 ### 🏆 Key Achievements
 
-* 
+
 **AIR 1:** Formula Bharat 2025 (with Team Kratos Racing).
 
 
-* 
+
 **AIR 2:** Formula Bharat 2023.
 
 
-* 
+
 **International Recognition:** Secured 11th and 36th ranks in Formula Student Germany and East (2023).
 
 
 
 ### 🛠 Technical Skills
 
-* 
+
 **Firmware:** Embedded C, RTOS, Object-Oriented Programming, STM32, Atmega.
 
 
-* 
+
 **Hardware:** PCB Design (Altium/Eagle), Hardware Integration, Electromagnetics.
 
 
-* 
+
 **AI/Vision:** DeepStream, Real-time vision pipelines.
 
 
-* 
+
 **Tools:** Git/GitHub, SWD/JTAG, ISO-SPI.
 
 
