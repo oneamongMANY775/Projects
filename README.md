@@ -9,7 +9,7 @@ All done projects
 **Email:** [nirbhiknavin@gmail.com](mailto:nirbhiknavin@gmail.com) 
 ### Executive Summary
 
-A dedicated Embedded Engineer with a background in **CSE (AI & ML)** and extensive experience in **RTOS-based firmware**, **PCB design**, and **vision pipelines**. I specialize in bridging the gap between high-level software (NVIDIA Jetson/DeepStream) and low-level hardware (STM32/Atmega).
+A dedicated Embedded Engineer with a background in **CSE (AI & ML)** and experience in **RTOS-based firmware**, **PCB design**, and **vision pipelines**. I specialize in bridging the gap between high-level software (NVIDIA Jetson/DeepStream) and low-level hardware (STM32/Atmega).
 
 ---
 
@@ -41,14 +41,14 @@ A dedicated Embedded Engineer with a background in **CSE (AI & ML)** and extensi
 #### 2. [RTOS-Based Firmware & Vision Pipelines]
 
 
-**Role:** Lead Firmware Developer.
+**Role:** Firmware Developer.
 
 
 * **Scope:**
-* Transitioned drone codebases from ISR-based to **RTOS-based architectures** for better task scheduling.
+* Helped in transitioning drone codebases from ISR-based to **RTOS-based architectures** for better task scheduling.
 
 
-* Built real-time, **GPU-accelerated vision pipelines** using NVIDIA DeepStream.
+* Understood, **GPU-accelerated vision pipelines** using NVIDIA DeepStream.
 
 
 
