@@ -38,7 +38,7 @@ A dedicated Embedded Engineer with a background in **CSE (AI & ML)** and extensi
 
 
 
-#### 2. [RTOS-Based Firmware & Vision Pipelines](https://www.google.com/search?q=./firmware-vision)
+#### 2. [RTOS-Based Firmware & Vision Pipelines]
 
 
 **Role:** Lead Firmware Developer.
@@ -54,7 +54,7 @@ A dedicated Embedded Engineer with a background in **CSE (AI & ML)** and extensi
 
 
 
-#### 3. [Electric Vehicle BMS & ECU Systems](https://www.google.com/search?q=./ev-bms-systems)
+#### 3. [Electric Vehicle BMS & ECU Systems]
 
 
 **Role:** Embedded Engineer for Team Kratos Racing Electric.
@@ -77,7 +77,7 @@ A dedicated Embedded Engineer with a background in **CSE (AI & ML)** and extensi
 
 
 
-#### 4. [Business & Strategic Leadership](https://www.google.com/search?q=./business-strategy)
+#### 4. [Business & Strategic Leadership]
 
 
 **Role:** Business Plan Team Lead.
